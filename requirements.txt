@@ -1,0 +1,2 @@
+streamlit>=1.25.0  # Replace with your Streamlit version
+cohere>=4.0.0      # Replace with your Cohere version
